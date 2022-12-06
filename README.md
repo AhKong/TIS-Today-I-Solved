@@ -1,5 +1,5 @@
-# TIS-Today-I-Solved
-매일 하나 이상의 코테 문제를 풀기 위한 레포지토리 
+# TIS :: Today-I-Solved
+__매일 하나 이상의 문제를 해결__ 하고 이를 기록하기 위한 저장소입니다.
 
 ### [2022.12.06](https://github.com/AhKong/TIS-Today-I-Solved/blob/main/2022-12-06) 
 - [Programmers-옹알이(1)](https://github.com/AhKong/TIS-Today-I-Solved/blob/main/2022-12-06/TIS_1.java)
