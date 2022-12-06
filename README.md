@@ -1,2 +1,5 @@
 # TIS-Today-I-Solved
-TIS :: Today I Solved
+매일 하나 이상의 코테 문제를 풀기 위한 레포지토리 
+
+### 2022.12.06 
+- 프로그래머스 level0 시작
